@@ -1,10 +1,10 @@
-vCard - Personal Portfolio
+makayla lerner's data portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = makayla lerner
+makayla lerner
+data enthusiast
 
 Show Contacts
 
